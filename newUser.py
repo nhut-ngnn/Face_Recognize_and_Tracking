@@ -22,16 +22,7 @@ def capture_faces():
 
     while True:
         ret, img = cam.read()
-
         img = cv2.flip(img, 1)
-
-        center_h = img.shape[0] // 2
-        center_w = img.shape[1] // 2
-        sizebox_w = 300
-        sizebox_h = 400
-        cv2.rectangle(img, (center_w - sizebox_w // 2, center_h - sizebox_h // 2),
-                      (center_w + sizebox_w // 2, center_h + sizebox_h // 2), (255, 255, 255), 5)
-
         gray = cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
 
         faces = detector.detectMultiScale(gray, 1.3, 5)
