@@ -16,10 +16,16 @@
 </p>
 
 
-## Create Databased
-## Create User
-## Recognize and Tracking
-## Model Demo
+## Installation
+### 1. Clone the repository:
+```bash
+git clone https://github.com/nhut-ngnn/Face_Recognize_and_Tracking_CPV301_AI1804/
+```
+Download dataset from this link: <link>https://drive.google.com/drive/folders/1ZjntzHKm2Y_Na9wpNZDpi_apgRGvEbdo?usp=sharing</link>
+### 2. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
 ## Contact
 For any information, please contact the main author:
 
