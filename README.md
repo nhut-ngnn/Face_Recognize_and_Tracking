@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning"> 
-<img src="https://img.shields.io/badge/DeepSORT">
-<img src="https://img.shields.io/badge/Histrogram%20of%20oriented%20gradient">     
-<img src="https://img.shields.io/badge/Local%20binary%20patterns">     
-<img src="https://img.shields.io/badge/Face%20Recognize">
+<img src="https://img.shields.io/badge/Machine%20Learning-white?style=flat"> 
+<img src="https://img.shields.io/badge/DeepSORT-white?style=flat">
+<img src="https://img.shields.io/badge/Histrogram%20of%20oriented%20gradient-white?style=flat">     
+<img src="https://img.shields.io/badge/Local%20binary%20pattern-white?style=flat">     
+<img src="https://img.shields.io/badge/Face%20Recognize-white?style=flat">
 </p>
