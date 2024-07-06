@@ -1,4 +1,4 @@
-# AI1804 - CPV 301 - Face Recognize and Tracking
+# [AI1804 - CPV 301] - Face Recognize and Tracking
 
 > Please press ⭐ button and/or cite papers if you feel helpful.
 
