@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Speech Recognition-white"> 
+<img src="https://img.shields.io/badge/Machine Learning"> 
 <img src="https://img.shields.io/badge/Natural Language Processing-white">
 <img src="https://img.shields.io/badge/Large Language Model-white">     
 <img src="https://img.shields.io/badge/Deep Learning-white">      
