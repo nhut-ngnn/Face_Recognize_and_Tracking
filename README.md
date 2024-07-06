@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine Learning"> 
-<img src="https://img.shields.io/badge/Natural Language Processing-white">
-<img src="https://img.shields.io/badge/Large Language Model-white">     
-<img src="https://img.shields.io/badge/Deep Learning-white">      
-<img src="https://img.shields.io/badge/AI for Healthcare-white">
+<img src="https://img.shields.io/badge/Machine%20Learning"> 
+<img src="https://img.shields.io/badge/DeepSORT">
+<img src="https://img.shields.io/badge/Histrogram%20of%20oriented%20gradient">     
+<img src="https://img.shields.io/badge/Local%20binary%20patterns">     
+<img src="https://img.shields.io/badge/Face%20Recognize">
 </p>
