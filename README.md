@@ -21,7 +21,7 @@
 ```bash
 git clone https://github.com/nhut-ngnn/Face_Recognize_and_Tracking_CPV301_AI1804/
 ```
-Download dataset from this link:<button onclick="window.location.href='https://drive.google.com/drive/folders/1ZjntzHKm2Y_Na9wpNZDpi_apgRGvEbdo?usp=sharing'"> Download Dataset</button>
+Download dataset from this link:<button onclick="window.location.href='https://drive.google.com/drive/folders/1ZjntzHKm2Y_Na9wpNZDpi_apgRGvEbdo?usp=sharing'"> 
 ### 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
