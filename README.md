@@ -40,7 +40,7 @@ To register a user's face with their ID and name, and edit the file path to a vi
 python main.py
 ```
 ## Demo
-![](Demo/output.avi)
+![](Demo/visualize.png)
 ## Contact
 For any information, please contact the main author:
 
