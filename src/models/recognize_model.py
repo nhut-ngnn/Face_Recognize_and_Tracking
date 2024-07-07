@@ -24,7 +24,8 @@ class Face_Recognition(SVC):
         super().__init__(kernel="linear", probability=True)
         self.pca_transf = PCA()
         self.input_img = (128, 128)
-        self.threshold = 0.4
+        self.threshold = 0.8
+    
     
     def _reshape_img(self, img):
         return resize(img, self.input_img)
