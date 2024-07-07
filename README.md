@@ -40,7 +40,10 @@ To register a user's face with their ID and name, and edit the file path to a vi
 python main.py
 ```
 ## Demo
-
+<video width="640" height="480" controls>
+        <source src="Demo/output.avi" type="video/avi">
+        Your browser does not support the video tag.
+</video>
 ## Contact
 For any information, please contact the main author:
 
