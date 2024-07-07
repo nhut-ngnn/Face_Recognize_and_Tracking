@@ -40,11 +40,7 @@ To register a user's face with their ID and name, and edit the file path to a vi
 python main.py
 ```
 ## Demo
-<video width="640" height="480" controls>
-        <source src="CPV301_AI1804-Face_Recognize_and_Tracking/Demo/output.avi" type="video/avi">
-        Your browser does not support the video tag.
-</video>
-
+![](Demo/output.avi)
 ## Contact
 For any information, please contact the main author:
 
