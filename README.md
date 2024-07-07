@@ -39,11 +39,7 @@ To register a user's face with their ID and name, and edit the file path to a vi
 ```bash
 python main.py
 ```
-## Demo
-[![Watch the video]()](https://github.com/nhut-ngnn/CPV301_AI1804-Face_Recognize_and_Tracking/raw/main/Demo/output.mp4)
 
-
-![](Demo/visualize.png)
 ## Contact
 For any information, please contact the main author:
 
