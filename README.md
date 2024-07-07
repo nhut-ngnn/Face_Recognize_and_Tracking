@@ -30,6 +30,17 @@ pip install -r requirements.txt
 ```bash
 python makeDatabased.py
 ```
+### 4. Register user
+```bash
+python newUser.py
+```
+To register a user's face with their ID and name, and edit the file path to a video or use the camera for registration
+### 5. Recognize and tracking face
+```bash
+python main.py
+```
+## Demo
+
 ## Contact
 For any information, please contact the main author:
 
