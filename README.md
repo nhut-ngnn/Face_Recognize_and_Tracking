@@ -41,7 +41,7 @@ python main.py
 ```
 ## Demo
 <video width="640" height="480" controls>
-        <source src="Demo/output.avi" type="video/avi">
+        <source src="CPV301_AI1804-Face_Recognize_and_Tracking/Demo/output.avi" type="video/avi">
         Your browser does not support the video tag.
 </video>
 
