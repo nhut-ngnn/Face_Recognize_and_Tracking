@@ -44,6 +44,7 @@ python main.py
         <source src="Demo/output.avi" type="video/avi">
         Your browser does not support the video tag.
 </video>
+
 ## Contact
 For any information, please contact the main author:
 
